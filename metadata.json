@@ -1,0 +1,7 @@
+{
+  "name": "PVH Ingatlan Ajánló",
+  "description": "Intelligens ingatlan-kereső és ajánló rendszer a Pécsi Vagyonkezelő kiadó ingatlanjaihoz, Gemini AI támogatással.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
